@@ -1,0 +1,1 @@
+Demonstrates how to use the [Font.js](https://github.com/Pomax/Font.js) library to load a ttf font and get metrics of both the font and a specific text. Internally, Font.js draws the text onto a canvas and scans the pixels to come up with the metrics.
